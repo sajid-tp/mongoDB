@@ -1,15 +1,14 @@
 For example, 
-```mongoDB
+```javascript
 db.products.find({ price: { $gt: 100 } })
-
+```
 With Mongoose, you write:
-
+```javascript
 Product.find({ price: { $gt: 100 } })
-
+```
 The MongoDB query condition is still:
-
+```javascript
 { price: { $gt: 100 } }
-
 ```
 
 ### Mongoose gives you things like:
