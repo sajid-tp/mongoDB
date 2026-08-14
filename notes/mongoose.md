@@ -13,11 +13,11 @@ The MongoDB query condition is still:
 
 ### Mongoose gives you things like:
 
-Model.find()  
-Model.findOne()  
-Model.create()  
-Model.findById()  
-Model.findByIdAndUpdate()  
-populate()  
+- Model.find()  
+- Model.findOne()  
+- Model.create()  
+- Model.findById()  
+- Model.findByIdAndUpdate()  
+- populate()  
 Schema validation
 Middleware/hooks
