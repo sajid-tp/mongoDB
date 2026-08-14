@@ -19,5 +19,5 @@ The MongoDB query condition is still:
 - Model.findById()  
 - Model.findByIdAndUpdate()  
 - populate()  
-Schema validation
-Middleware/hooks
+- Schema validation
+- Middleware/hooks
